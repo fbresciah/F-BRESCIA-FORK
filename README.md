@@ -13,7 +13,7 @@ Simple hit run!
 
 _You can edit the run command from the `.replit` file._
 
-## Running commands
+## Running commandsrails db:
 
 Start every command with `bundle exec` so that it runs in the context of the installed gems environment. The console pane will give you output from the server but you can run arbitrary command from the shell without stopping the server.
 
